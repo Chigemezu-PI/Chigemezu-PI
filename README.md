@@ -29,7 +29,7 @@
 
 ```yaml
 handle:     chige.exe
-real_name:  Meizu (Chigemezu) Prince-Isaac
+real_name:  Chigemezu Prince-Isaac
 location:   Dublin, IE  // UTC+0
 class:      Builder / AI Tinkerer / Founder-in-training
 mission:    Build tools that think, then build the company around them.
