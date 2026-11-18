@@ -1,14 +1,7 @@
-[README.md](https://github.com/user-attachments/files/35022478/README.md)
-## Hi there 👋
-
-<!--
-**Chigemezu-PI/Chigemezu-PI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 <!-- ░▒▓ CHIGEMEZU-PI // NIGHT CITY NODE ▓▒░ -->
 
 <p align="center">
-  <img src="./assets/banner.png" alt="Lone figure on a rooftop above a neon purple cyberpunk city" width="100%" />
+  <img src="./assets/banner.jpg" alt="Neon cyberpunk megacity at dusk" width="100%" />
 </p>
 
 <p align="center">
@@ -173,13 +166,3 @@ chige@nightcity:~$ █
 ```
 
 <p align="center"><sub>// END OF TRANSMISSION // wake up, chige. we have a city to build. //</sub></p>
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
