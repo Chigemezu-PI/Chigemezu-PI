@@ -20,7 +20,7 @@
 ██║     ██╔══██║██║██║   ██║██╔══╝
 ╚██████╗██║  ██║██║╚██████╔╝███████╗
  ╚═════╝╚═╝  ╚═╝╚═╝ ╚═════╝ ╚══════╝
-   >> MEIZU PRINCE-ISAAC // DUBLIN SECTOR // ONLINE
+   >> CHIGEMEZU PRINCE-ISAAC // DUBLIN SECTOR // ONLINE
 ```
 
 ---
